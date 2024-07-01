@@ -1,0 +1,5 @@
+2,Nanglo,student
+3,Nanglo,student
+4,Nanglo,student
+5,Kapish Sah,student
+6,Kapish Sah,student
